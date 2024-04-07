@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chauhankhushnam@gmail.com**
 
-- ⚡ Fun fact **I'm friends with 25 letters of the alphabet. I don't know y.**
+- ⚡ Fun fact **bugs are not errors but a new feature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
