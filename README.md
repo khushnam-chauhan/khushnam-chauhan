@@ -13,7 +13,9 @@
 - 💬 About me **👋 I'm Khushnam chauhan, a MERN stack developer by day and a code wizard by night. If you can't find me, I'm probably chasing semicolons or hunting down that elusive missing bracket. Let's build something legendary together!🚀**
 
 - 📫 How to reach me **chauhankhushnam@gmail.com**
-
+ 
+- 🗃️ Portfolio **https://khushnam-chauhan.vercel.app/**
+ 
 - ⚡ Fun fact **bugs are not errors but a new feature**
 
 <h3 align="left">Connect with me:</h3>
